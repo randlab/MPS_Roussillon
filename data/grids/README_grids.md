@@ -4,9 +4,9 @@ Valentin Dall'Alba / February 2020
 
 ## Description :
 
-The grids are note store on git hub due to the size of the files. For access to the different grid please send an email to *valentin.dallalba-arnau@unine.ch*
+The grids are note stored on git hub due to the size of the files. For access to the different grids please send an email to *valentin.dallalba-arnau@unine.ch*
 
-The different grid and variables are the Roussillon grids, the 3D trend map and the 3D rotation maps.
+The different grids and variables are the Roussillon grids, the 3D trend map and the 3D rotation maps.
 
 ## Files : 
 
